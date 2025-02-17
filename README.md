@@ -1,9 +1,11 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=I%20am%20MINAH%20&fontSize=40&animation=fadeIn&fontAlignY=40&theme=material-palenight&desc=Frontend%20developer%20who%20brings%20design%20sensibility%20to%20life%20through%20code.&descAlignY=60&descAlign=50)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&theme=material-palenight)
 
 <div align="center">
-    
-## 🛠 Tech Stacks
+  <h4>Hello! I am MINAH 😊</h4>
+  <p><em>Frontend developer who brings design sensibility to life through code.</em></p>
+
+<hr style="border: 0.5px solid #eee; margin-top: 30px; margin-bottom: 30px;">
+<h4>🛠 Tech Stacks</h4> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop" />
