@@ -1,9 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello!%20I%20am%20MINAH%20😊&fontSize=40&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=I%20am%20MINAH%20&fontSize=40&animation=fadeIn&fontAlignY=40&theme=material-palenight&desc=Frontend%20developer%20who%20brings%20design%20sensibility%20to%20life%20through%20code.&descAlignY=60&descAlign=50)
 
 
 <div align="center">
     
-## 🛠 스킬
+## 🛠 Tech Stacks
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop" />
