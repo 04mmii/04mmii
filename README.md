@@ -2,7 +2,6 @@
 
 <div align="center">
   <h4>Hello! I am MINAH 😊</h4>
-  <p><em>Frontend developer who brings design sensibility to life through code.</em></p>
 
 <hr style="border: 0.5px solid #eee; margin-top: 30px; margin-bottom: 30px;">
 <h4>🛠 Tech Stacks</h4> 
